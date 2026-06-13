@@ -1,0 +1,18 @@
+Finalni graf predikcija kroz vrijeme
+====================================
+
+Kopiraj:
+- scripts/13_plot_final_timeline.py
+- 13_NAPRAVI_FINALNI_GRAF_PREDIKCIJA_WINDOWS.bat
+
+u glavnu mapu projekta.
+
+Pokreni:
+13_NAPRAVI_FINALNI_GRAF_PREDIKCIJA_WINDOWS.bat
+
+Ulaz:
+results_sm04_plus_TRAINVAL_LONG16_OWNVAL/frame_predictions_test.csv
+
+Izlaz:
+results_sm04_plus_TRAINVAL_LONG16_OWNVAL/final_predicted_phonemes_timeline.png
+results_sm04_plus_TRAINVAL_LONG16_OWNVAL/final_true_vs_pred_timeline.png

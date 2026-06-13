@@ -1,0 +1,17 @@
+utterance_id,speaker_id,audio_path,label_path,transcript_path,split
+sm04010103201,sm04,data\raw\wav_sm04_demo\sm04010103201.wav,data\labels\lab_sm04_demo\sm04010103201.lab,data\transcripts\txt_sm04_demo\sm04010103201.txt,test
+sm04010105128,sm04,data\raw\wav_sm04_demo\sm04010105128.wav,data\labels\lab_sm04_demo\sm04010105128.lab,data\transcripts\txt_sm04_demo\sm04010105128.txt,test
+sm04010105157,sm04,data\raw\wav_sm04_demo\sm04010105157.wav,data\labels\lab_sm04_demo\sm04010105157.lab,data\transcripts\txt_sm04_demo\sm04010105157.txt,train
+sm04010105186,sm04,data\raw\wav_sm04_demo\sm04010105186.wav,data\labels\lab_sm04_demo\sm04010105186.lab,data\transcripts\txt_sm04_demo\sm04010105186.txt,train
+sm04010105219,sm04,data\raw\wav_sm04_demo\sm04010105219.wav,data\labels\lab_sm04_demo\sm04010105219.lab,data\transcripts\txt_sm04_demo\sm04010105219.txt,train
+sm04010105303,sm04,data\raw\wav_sm04_demo\sm04010105303.wav,data\labels\lab_sm04_demo\sm04010105303.lab,data\transcripts\txt_sm04_demo\sm04010105303.txt,test
+sm04010105332,sm04,data\raw\wav_sm04_demo\sm04010105332.wav,data\labels\lab_sm04_demo\sm04010105332.lab,data\transcripts\txt_sm04_demo\sm04010105332.txt,train
+sm04010105361,sm04,data\raw\wav_sm04_demo\sm04010105361.wav,data\labels\lab_sm04_demo\sm04010105361.lab,data\transcripts\txt_sm04_demo\sm04010105361.txt,train
+sm04020204213,sm04,data\raw\wav_sm04_demo\sm04020204213.wav,data\labels\lab_sm04_demo\sm04020204213.lab,data\transcripts\txt_sm04_demo\sm04020204213.txt,train
+sm04020204304,sm04,data\raw\wav_sm04_demo\sm04020204304.wav,data\labels\lab_sm04_demo\sm04020204304.lab,data\transcripts\txt_sm04_demo\sm04020204304.txt,train
+sm04020204333,sm04,data\raw\wav_sm04_demo\sm04020204333.wav,data\labels\lab_sm04_demo\sm04020204333.lab,data\transcripts\txt_sm04_demo\sm04020204333.txt,train
+sm04040502406,sm04,data\raw\wav_sm04_demo\sm04040502406.wav,data\labels\lab_sm04_demo\sm04040502406.lab,data\transcripts\txt_sm04_demo\sm04040502406.txt,train
+sm04050204427,sm04,data\raw\wav_sm04_demo\sm04050204427.wav,data\labels\lab_sm04_demo\sm04050204427.lab,data\transcripts\txt_sm04_demo\sm04050204427.txt,train
+sm04050204456,sm04,data\raw\wav_sm04_demo\sm04050204456.wav,data\labels\lab_sm04_demo\sm04050204456.lab,data\transcripts\txt_sm04_demo\sm04050204456.txt,train
+sm04050502202,sm04,data\raw\wav_sm04_demo\sm04050502202.wav,data\labels\lab_sm04_demo\sm04050502202.lab,data\transcripts\txt_sm04_demo\sm04050502202.txt,test
+sm04060105416,sm04,data\raw\wav_sm04_demo\sm04060105416.wav,data\labels\lab_sm04_demo\sm04060105416.lab,data\transcripts\txt_sm04_demo\sm04060105416.txt,train

@@ -1,0 +1,7 @@
+{
+  "split": "val",
+  "prior_weight": 2.0,
+  "smooth_window": 5,
+  "accuracy": 0.6421118718048372,
+  "error_rate": 0.3578881281951628
+}
